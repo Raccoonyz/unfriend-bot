@@ -1,5 +1,5 @@
 # unfollow-bot
-Bot to unfriend everyone you friend on roblox
+Bot to unfriend everyone you have friended on roblox
 
 See [https://github.com/Raccoonyz/unfollow-bot](https://github.com/Raccoonyz/unfollow-bot) for a similar bot that unfollows everyone you follow
 ## Instructions 
