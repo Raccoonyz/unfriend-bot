@@ -1,5 +1,6 @@
 # unfollow-bot
-Bot to unfollow everyone you follow on roblox
+Bot to unfriend everyone you friend on roblox
+See [https://github.com/Raccoonyz/unfollow-bot](https://github.com/Raccoonyz/unfollow-bot) for a similar bot that unfollows everyone you follow
 ## Instructions 
 First thing you'll have to is create a new Glitch account.
 Go to [https://glitch.com](https://glitch.com/) and click `Join Glitch, it's free!`.
@@ -25,4 +26,4 @@ Click on the extension and search for the .ROBLOSECURITY cookie.
 Copy the value of the cookie.
 
 Go back to the `server.js` file and paste the cookie's value between the second pair of "s. 
-Wait a little bit, and if you did it correctly, it should start unfollowing everyone you have followed.
+Wait a little bit, and if you did it correctly, it should start unfriending  everyone you have friended.
